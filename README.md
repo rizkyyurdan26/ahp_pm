@@ -13,7 +13,8 @@ What the explain of each folders?
 4. file "data_varietas.ipynb" for cleaning varieties dataset
 5. file "data_split.ipynb" for spliting dataset to each parameters
 6. file "DSS_Combine.ipynb", its cobine from all function that separated. And this file is DSS Model that used in this research
-7. Other file ".ipynb", that are experiment from each method that used
+7. file "pearson.ipynb", it is for validating tes from quesioner evaluate
+8. Other file ".ipynb", that are experiment from each method that used
 
 Warning:
 
